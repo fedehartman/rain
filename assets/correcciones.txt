@@ -1,0 +1,24 @@
+HEADER
+1· logo-escudo nacional
+2· cambiar a decano.com minuscula el logo
+3· invertir tamaño logo c foto,las fotos de hinchada-
+4· sacar bandera cabezal
+5· ver fb y tw
+
+SLIDER
+6· titulares principales rellenar el blanco
+7· sin diagonal- el titular sobre noticias principal
+8· unificaR TIPografias
+
+PASTILLAS
+9· cambiar modulo ultimo partido para abajo y el de noticias y mas leidas,etc para arriba
+10· decano tv en home,flechitas como el observador para ver otros videos. si see clickea en la palabra decano tv se va a la pagina entera c todos los videos
+11· galeria,tb flechita q permita ver otras fotos. si se clickea en “galeria” se va a todas las galerias
+
+BANNERS
+12· cambiar banner amarillo por uno de un banco
+13· referencia marca  pepsi en titular el talud(aclarame pixeles)
+
+INTERNAS
+14· pagina interna 1-talud
+15· pagina interna 2-ampliacion noticias mismos espacios
